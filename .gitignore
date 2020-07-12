@@ -2,5 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 *.sqlite3
+.vscode/
 ll_env/
 local_settings.py
